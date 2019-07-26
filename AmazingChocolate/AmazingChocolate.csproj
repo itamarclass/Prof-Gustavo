@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\AmazingChocolate.DomainModel\AmazingChocolate.DomainModel.csproj" />
+    <ProjectReference Include="..\AmazingChocolate.DomainService\AmazingChocolate.DomainService.csproj" />
+    <ProjectReference Include="..\AmazingChocolate.Infrastructure.AzureStorage\AmazingChocolate.Infrastructure.AzureStorage.csproj" />
+    <ProjectReference Include="..\AmazingChocolate.Infrastructure.DataAccess\AmazingChocolate.Infrastructure.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

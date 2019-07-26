@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AmazingChocolate.DomainModel.Entities.EntityBase&lt;EntityId&gt;">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\EntityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AmazingChocolate.DomainModel.Entities.ItemPedido">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAk=</HashCode>
+      <FileName>Entities\ItemPedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AmazingChocolate.DomainModel.Entities.Pedido">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Pedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AmazingChocolate.DomainModel.Entities.Produto">
+    <Position X="5.75" Y="3.25" Width="2.5" />
+    <InheritanceLine Type="AmazingChocolate.DomainModel.Entities.EntityBase&lt;EntityId&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="4" Y="1.603" />
+        <Point X="4" Y="2.844" />
+        <Point X="7" Y="2.844" />
+        <Point X="7" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entities\Produto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AmazingChocolate.DomainModel.Entities.Cliente" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSAAAAAAgCBAACEAAAAAgACAACAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Entities\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="AmazingChocolate.DomainModel.ValueObjects.CEP">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ValueObjects\CEP.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AmazingChocolate.DomainModel.ValueObjects.CPF">
+    <Position X="10.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ValueObjects\CPF.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="AmazingChocolate.DomainModel.Interfaces.Repositories.IClienteRepository">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAA=</HashCode>
+      <FileName>Interfaces\Repositories\IClienteRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AmazingChocolate.DomainModel.Interfaces.Repositories.IPedidoRepository">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Repositories\IPedidoRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AmazingChocolate.DomainModel.Interfaces.Repositories.IProdutoRepository">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Interfaces\Repositories\IProdutoRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AmazingChocolate.DomainModel.Interfaces.Repositories.IRepository&lt;T, EntityId&gt;">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Repositories\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.deps.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.pdb
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.Properties.Resources.resources
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.AssemblyInfo.cs
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.AzureStorage\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.AzureStorage.pdb

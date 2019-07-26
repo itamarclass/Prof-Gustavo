@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.deps.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\bin\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.pdb
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.pdb
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.Properties.Resources.resources
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.Infrastructure.DataAccess\obj\Debug\netcoreapp2.2\AmazingChocolate.Infrastructure.DataAccess.pdb

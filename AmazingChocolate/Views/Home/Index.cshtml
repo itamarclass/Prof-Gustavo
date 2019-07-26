@@ -1,0 +1,28 @@
+﻿@using AmazingChocolate.DomainModel.Entities;
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Produto>;
+
+<div class="text-center">
+    <h1 class="display-4">Jenny Doces</h1>
+
+    @foreach (var item in Model)
+    {
+
+        <div class="card-columns">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="@item.FotoProdutoURL" alt="@item.NomeProduto">
+                <div class="card-body">
+                    <h5 class="card-title">@item.NomeProduto</h5>
+                    <form action="AdicionarProduto" method="post">
+                        <input type="hidden" name="produto" value="@item.Id"/>
+                        <!--<p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>-->
+                        <input type="number" name="quantidade" />
+                        <button type="submit" class="btn btn-primary">Adicionar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div> 

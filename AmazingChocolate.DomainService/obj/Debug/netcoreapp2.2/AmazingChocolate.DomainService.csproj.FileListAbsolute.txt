@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainService.deps.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainService.runtimeconfig.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainService.runtimeconfig.dev.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainService.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainService.pdb
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.pdb
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainService.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainService.AssemblyInfo.cs
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainService.csproj.CopyComplete
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainService.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainService\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainService.pdb

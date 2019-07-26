@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazingChocolate", "AmazingChocolate\AmazingChocolate.csproj", "{642614AD-5A25-46F1-BA21-10FB847F0334}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazingChocolate.DomainModel", "AmazingChocolate.DomainModel\AmazingChocolate.DomainModel.csproj", "{E62E5384-503D-4F63-AF29-3544F5CF1B86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazingChocolate.Infrastructure.DataAccess", "AmazingChocolate.Infrastructure.DataAccess\AmazingChocolate.Infrastructure.DataAccess.csproj", "{C8C78EAF-1D4C-4168-B9C5-7E5A513EAC24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazingChocolate.DomainService", "AmazingChocolate.DomainService\AmazingChocolate.DomainService.csproj", "{20930026-825E-444A-9F32-D31101275EFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazingChocolate.Infrastructure.AzureStorage", "AmazingChocolate.Infrastructure.AzureStorage\AmazingChocolate.Infrastructure.AzureStorage.csproj", "{DAFC1515-1DBC-4FEC-809A-EC679AC3AA13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{552DDF95-545B-4EBE-890E-CC7521A3E06E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{F7020129-A65B-472F-94DD-9799578EB35A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{52ABAFCA-2A5A-4D56-8DCB-364DC3D0F9BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{E86BDDB3-8B09-47B9-8D38-9ADF16AD0CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{642614AD-5A25-46F1-BA21-10FB847F0334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642614AD-5A25-46F1-BA21-10FB847F0334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642614AD-5A25-46F1-BA21-10FB847F0334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642614AD-5A25-46F1-BA21-10FB847F0334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62E5384-503D-4F63-AF29-3544F5CF1B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62E5384-503D-4F63-AF29-3544F5CF1B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62E5384-503D-4F63-AF29-3544F5CF1B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62E5384-503D-4F63-AF29-3544F5CF1B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C78EAF-1D4C-4168-B9C5-7E5A513EAC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C78EAF-1D4C-4168-B9C5-7E5A513EAC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C78EAF-1D4C-4168-B9C5-7E5A513EAC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C78EAF-1D4C-4168-B9C5-7E5A513EAC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20930026-825E-444A-9F32-D31101275EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20930026-825E-444A-9F32-D31101275EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20930026-825E-444A-9F32-D31101275EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20930026-825E-444A-9F32-D31101275EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFC1515-1DBC-4FEC-809A-EC679AC3AA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFC1515-1DBC-4FEC-809A-EC679AC3AA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFC1515-1DBC-4FEC-809A-EC679AC3AA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFC1515-1DBC-4FEC-809A-EC679AC3AA13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{642614AD-5A25-46F1-BA21-10FB847F0334} = {552DDF95-545B-4EBE-890E-CC7521A3E06E}
+		{E62E5384-503D-4F63-AF29-3544F5CF1B86} = {52ABAFCA-2A5A-4D56-8DCB-364DC3D0F9BA}
+		{C8C78EAF-1D4C-4168-B9C5-7E5A513EAC24} = {E86BDDB3-8B09-47B9-8D38-9ADF16AD0CD6}
+		{20930026-825E-444A-9F32-D31101275EFE} = {52ABAFCA-2A5A-4D56-8DCB-364DC3D0F9BA}
+		{DAFC1515-1DBC-4FEC-809A-EC679AC3AA13} = {E86BDDB3-8B09-47B9-8D38-9ADF16AD0CD6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B753C158-7929-45BE-8688-FD4A05A25BD6}
+	EndGlobalSection
+EndGlobal

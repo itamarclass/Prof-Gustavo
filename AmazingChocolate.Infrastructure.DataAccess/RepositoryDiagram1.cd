@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AmazingChocolate.Infrastructure.DataAccess.Repositories.ClienteRepository">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAAAEAAAAAAgAAEAAEAAAAAAAAACAAA=</HashCode>
+      <FileName>Repositories\ClienteRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AmazingChocolate.Infrastructure.DataAccess.Repositories.PedidoRepository">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAAAEAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\PedidoRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AmazingChocolate.Infrastructure.DataAccess.Repositories.ProdutoRepository">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAAAEAAAAAAgAAEAAEAAAAAAAAACAAA=</HashCode>
+      <FileName>Repositories\ProdutoRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AmazingChocolate.Infrastructure.DataAccess.Contexts.AmazingChocolateContext">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAAQAAAAAAAAAAAAAAEAAAAAAACABAAAAAAAA=</HashCode>
+      <FileName>Contexts\AmazingChocolateContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

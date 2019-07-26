@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.deps.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.runtimeconfig.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.runtimeconfig.dev.json
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\bin\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.pdb
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.AssemblyInfo.cs
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.dll
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.pdb
+C:\Users\user\Desktop\Trabalho Pós\AmazingChocolate\AmazingChocolate.DomainModel\obj\Debug\netcoreapp2.2\AmazingChocolate.DomainModel.csprojAssemblyReference.cache
